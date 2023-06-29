@@ -27,4 +27,9 @@ public:
 	{
 		ROOT = NULL; //membuat ROOT menjadi NULL
 	}
+
+	void insert(string element) // insert a node in the binary tree
+	{
+
+	}
 };
