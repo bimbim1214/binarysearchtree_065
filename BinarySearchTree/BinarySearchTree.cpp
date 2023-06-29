@@ -71,5 +71,11 @@ public:
 	}
 
 	void inorder(Node* ptr)
-	{}
+	{
+		if (ROOT == NULL)
+		{
+			cout << "tree id empty" << endl;
+			return;
+		}
+	}
 };
